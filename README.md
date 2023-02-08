@@ -1,0 +1,1 @@
+This will be a 16 by 16 grid of squares that change color when the user hovers their mouse over the squares, simulating the function of an Etch-a-Sketch. The squares which are made using div elements will be created in JavaScript with the exception of the 2 encompassing container divs coded directly in the html file. 
